@@ -1,4 +1,4 @@
-# Brown Dwarf Machine Learning Dataset
+# Brown Dwarf machine learning dataset
 
 Dataset for machine learning identification of L and T brown dwarfs in large photometric sky surveys.
 
